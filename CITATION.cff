@@ -6,10 +6,10 @@ date-released: "2025-12-16"
 doi: 10.5281/zenodo.17953337
 type: software
 authors:
-  - family-names: Sven
-    given-names: Prinz
+  - family-names: Prinz
+    given-names: Sven
     email: sprinz@ethz.ch
-    ordid: XXX
+    ordid: https://orcid.org/0009-0000-4485-1235
   - family-names: Tkaczuk
     given-names: Jakub
     email: jtkaczuk@ethz.ch
@@ -19,8 +19,8 @@ authors:
     email: tilleye@ethz.ch
     orcid: https://orcid.org/0000-0002-2095-9724
 contact:
-  - family-names: Sven
-    given-names: Prinz
+  - family-names: Prinz
+    given-names: Sven
     email: sprinz@ethz.ch
-    ordid: XXX
+    ordid: https://orcid.org/0009-0000-4485-1235
 version: 0.0.0
