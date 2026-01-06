@@ -21,7 +21,7 @@
 <img src="media/ETH_GHE_logo.svg" width=600>
 <br><br>
 It compliments the openly-accessible master’s thesis, available on the<br \>  
-<a href="">ETH Research Collection</a>.
+<a href="http://hdl.handle.net/20.500.11850/791439">ETH Research Collection</a>.
 </p>
 
 <b>Date of Thesis</b>  
