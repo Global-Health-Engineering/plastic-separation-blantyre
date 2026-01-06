@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "To cite this repository, use:"
 license: CC-BY-4.0
 title: "Plastic Separator - Design and Results"
-date-released: "2025-12-16"
+date-released: "2026-01-06"
 doi: 10.5281/zenodo.17953337
 type: software
 authors:
@@ -23,4 +23,4 @@ contact:
     given-names: Sven
     email: sprinz@ethz.ch
     ordid: https://orcid.org/0009-0000-4485-1235
-version: 0.0.0
+version: 0.0.1
