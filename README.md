@@ -18,7 +18,7 @@
 
 <br>
 <p align="middle"> 
-<img src="img/ETH_GHE_logo.svg" width=600>
+<img src="media/ETH_GHE_logo.svg" width=600>
 <br><br>
 It compliments the openly-accessible master’s thesis, available on the<br \>  
 <a href="">ETH Research Collection</a>.
@@ -69,7 +69,6 @@ The repository has the following directory tree:
     |   |   |   └── vacuum_mellerware
     |   |   └── W_washing
     │   └── testing
-    ├── img
     └── media
         ├── design
         ├── manufacturing
@@ -81,14 +80,13 @@ The repository has the following directory tree:
             ├── 05-water_quality_test
             ├── 06-plastic_waste_analysis
             └── 07-sink_float_prototype_test
-Each main directory (except for the `./img` directory) contains its own `README.md` file describing the content in more detail.
+Each main directory contains its own `README.md` file describing the content in more detail.
 
 | Main directory | Content |
 |---|---|
 | `./analysis` | Code for data analysis |
 | `./data` | Data generated during the project |
 | `./hardware` | Prototype design, and testing documentation |
-| `./img` | Images used in this `README.md` file |
 | `./media` | Photos and videos concerning the project |
 
 # License
